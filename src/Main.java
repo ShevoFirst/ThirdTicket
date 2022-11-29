@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//l
         System.out.println("Вопрос номер 1: for имеет переменную счетчик которая будет увеличиваться\n" +
                 "до тех пор пока не нарушится условие; \n" +
                 "Foreach цикл будет действовать относительно элемента к объекту \n" +
